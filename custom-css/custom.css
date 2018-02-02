@@ -111,7 +111,7 @@ h3 {
                 /* 0 width - change this with JavaScript */
                 height: 100%;
                 /* 100% Full-height */
-                padding-top: 60px;
+                padding-top: 10%;
                 /* Place content 60px from the top */
                 transition: 0.5s;
                 /* 0.5 second transition effect to slide in the sidenav */
